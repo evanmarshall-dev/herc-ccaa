@@ -1,36 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# HBC Employee &amp; Retiree Committee (HERC)
 
-## Getting Started
+## We are a committee of 17 former and current employees and retirees of the Hudson's Bay Company ("Hudson's Bay").
 
-First, run the development server:
+We formed our committee to help protect employees and retirees because of HBC's insolvency filing in the Ontario Superior Court of Justice on March 7, 2025 and the significant losses to employees and retirees by HBC. HBC is currently liquidating and closing all its stores, and has put all its assets up for sale.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+> [!NOTE]
+> We have no affiliation with Hudson's Bay and are entirely independent of Hudson's Bay.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### This website is a resource for employees and retirees of Hudson's Bay. Carefully crafted by Evan Marshall of [evanmarshall.dev](https://www.evanmarshall.dev)
